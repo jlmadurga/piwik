@@ -51,7 +51,8 @@
         "psr/log": "~1.0",
         "monolog/monolog": "~1.11",
         "symfony/monolog-bridge": "~2.6",
-        "symfony/event-dispatcher": "~2.6"
+        "symfony/event-dispatcher": "~2.6",
+	"ext-mbstring": "*"
     },
     "require-dev": {
         "aws/aws-sdk-php": "2.7.1",
